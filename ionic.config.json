@@ -1,0 +1,7 @@
+{
+  "name": "wkWebView",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
